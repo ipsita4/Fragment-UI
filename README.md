@@ -1,7 +1,7 @@
 # Task-Fragmentation
-AN assignment to test the fragmentation ability of Developers
+An assignment to test the fragmentation ability of Developers
 
-My Pick - Fragmentation of Functinality / UI
+Fragment the UI into selective components to make it more readable
 
 ## My Reasons for Fragmentating it like that
 
